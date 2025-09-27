@@ -140,6 +140,7 @@ class TodoPageState extends ConsumerState<TodoPage> {
                         ),
                       ),
                       onSubmitted: (value) => _addTodo(),
+                      key: const ValueKey('todo_input_field'),
                     ),
                   ),
                   const SizedBox(width: 10),
