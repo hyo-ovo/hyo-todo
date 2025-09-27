@@ -4,6 +4,8 @@
 
 ### 실행 커맨드
 flutter run -d chrome
+혹은 flutter run -d macos
+
 
 ## 코드 구조 설명
 
