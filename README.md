@@ -3,6 +3,7 @@
 ## 빌드 및 실행 방법
 
 ### 실행 커맨드
+flutter pub get # 종속성 설치
 flutter run -d chrome
 혹은 flutter run -d macos
 
